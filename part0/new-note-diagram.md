@@ -1,9 +1,6 @@
 # EXERCISE 0.4: NEW NOTE DIAGRAM
 
 ```mermaid
-```
-`````
-```mermaid
 sequenceDiagram
   participant browser
   participant server
